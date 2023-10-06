@@ -2,7 +2,7 @@ function Fans() {
     return (  
         <section>
             <div className="fans">
-                <img src="/public/fans.jpg"/>
+                <img src="/fans.jpg"/>
             </div>
         </section>
     );
