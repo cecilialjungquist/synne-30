@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 2vw;
+  background: rgb(23, 23, 23);
+}
+
+header {
+  position: relative;
+  min-height: 300px;
+}
+
+h1 {
+  font-family: 'Domine', serif;
+  color: #EBFF00;
+  font-size: 2rem;
+  position: absolute;
+  top: 0;
+  z-index: 1;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  margin: 1rem 0;
+  font-family: 'Domine', serif;
+  line-height: 150%;
+  text-align: center;
+  color: #ffefef;
+  letter-spacing: .03em;
+}
+
+footer p {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: .8rem;
+  max-width: 80%;
+  margin: auto;
+  font-style: italic;
+  margin-top: 2rem;
+}

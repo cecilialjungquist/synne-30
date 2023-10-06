@@ -1,0 +1,42 @@
+.app {
+  background-color: #A299D9;
+  padding: 3vw 2vw;
+  max-width: 475px;
+  min-height: 400px;
+  margin: auto;
+}
+
+.box-container {
+  position: relative;
+}
+
+.pink-box {
+  width: 75%;
+  height: 12.5rem;
+  background-color: #FFACAC;
+  position: absolute;
+  top: 1.1rem;
+  right: 0;
+}
+
+.gif-box {
+  width: 60%;
+  position: absolute;
+  right: 1.1rem;
+  top: 3rem;
+}
+
+.latrice {
+  margin: 1rem 0;
+}
+
+.p-big {
+  font-family: 'Domine', serif;
+  color: #EBFF00;
+  font-size: 2rem;
+}
+
+.fans {
+  padding: 2rem;
+  background-color: #FFACAC;
+}
