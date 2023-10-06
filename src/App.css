@@ -6,24 +6,20 @@
   margin: auto;
 }
 
-.box-container {
-  position: relative;
-}
-
 .pink-box {
-  width: 75%;
+  width: 88%;
   height: 12.5rem;
   background-color: #FFACAC;
   position: absolute;
-  top: 1.1rem;
+  top: 18.5rem;
   right: 0;
 }
 
 .gif-box {
-  width: 60%;
+  width: 68%;
   position: absolute;
   right: 1.1rem;
-  top: 3rem;
+  top: 22rem;
 }
 
 .latrice {
